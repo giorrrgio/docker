@@ -296,7 +296,10 @@ var (
 
 		// Mahavira - Ancient Indian mathematician during 9th century AD who discovered basic algebraic identities - https://en.wikipedia.org/wiki/Mah%C4%81v%C4%ABra_(mathematician)
 		"mahavira",
-
+		
+		//Guglielmo Marconi - Italian inventor and electrical engineer, known for his pioneering work on long-distance radio transmission
+		"marconi",
+		
 		// Maria Mayer - American theoretical physicist and Nobel laureate in Physics for proposing the nuclear shell model of the atomic nucleus - https://en.wikipedia.org/wiki/Maria_Mayer
 		"mayer",
 
