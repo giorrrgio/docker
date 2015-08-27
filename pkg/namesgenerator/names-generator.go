@@ -284,6 +284,9 @@ var (
 		// Henrietta Swan Leavitt - she was an American astronomer who discovered the relation between the luminosity and the period of Cepheid variable stars. https://en.wikipedia.org/wiki/Henrietta_Swan_Leavitt
 		"leavitt",
 
+		// Rita Levi-Montalcini - was an Italian Nobel Laureate honored for her work in neurobiology. She was awarded the 1986 Nobel Prize in Physiology or Medicine
+		"levimontalcini"
+
 		// Barbara Liskov, together with Jeannette Wing, developed the Liskov substitution principle. Liskov was also the winner of the Turing Prize in 2008.
 		"liskov", // https://en.wikipedia.org/wiki/Barbara_Liskov
 		"wing",   // https://en.wikipedia.org/wiki/Jeannette_Wing
@@ -296,10 +299,10 @@ var (
 
 		// Mahavira - Ancient Indian mathematician during 9th century AD who discovered basic algebraic identities - https://en.wikipedia.org/wiki/Mah%C4%81v%C4%ABra_(mathematician)
 		"mahavira",
-		
+
 		//Guglielmo Marconi - Italian inventor and electrical engineer, known for his pioneering work on long-distance radio transmission
 		"marconi",
-		
+
 		// Maria Mayer - American theoretical physicist and Nobel laureate in Physics for proposing the nuclear shell model of the atomic nucleus - https://en.wikipedia.org/wiki/Maria_Mayer
 		"mayer",
 
